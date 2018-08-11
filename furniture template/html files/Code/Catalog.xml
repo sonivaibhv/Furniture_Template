@@ -1,0 +1,315 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Catalog.xsl"?>
+<PLANT> 
+
+
+  <HEADING>Furniture Product Details</HEADING>
+<TITLE>Chairs</TITLE> 
+<S.No>1:</S.No>
+<PHOTO></PHOTO>
+<ProductDETILS>
+<Product>Product: Emma Tub Armchair</Product>
+<Brand>Brand: Universal</Brand>
+<PRICE>Price: AU$170</PRICE>
+</ProductDETILS>
+<HEAD>Product Details:</HEAD>
+<Details>The Emma Armchair is sure to be your chair of choice in any room. The fabric-upholstered seat has been covered with delicate linen fabric and filled with 17cm thick foam cushioning for extra comfort.</Details>
+<NewHead>Material and Care</NewHead>
+<type> • Linen Fabric</type>
+<type1> • Wood</type1>
+<desc>Its solid rubberwood legs feature a contemporary criss-cross design for stability.</desc>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+<S.No1>2:</S.No1>
+<PHOTO1></PHOTO1>
+<ProductDETILS1>
+<Product1>Product: Spencer Swivel Chair</Product1>
+<Brand1>Brand: Ikea</Brand1>
+<PRICE1>Price: AU$199</PRICE1>
+</ProductDETILS1>
+<HEAD1>Product Details:</HEAD1>
+<Details1>Add a touch of cutting edge style to your living room with the Spencer Swivel Chair. Stylishly upholstered in smart polyurethane with button-back detailing, the modern European design will add a contemporary flourish to any home. </Details1>
+<NewHead1>Material and Care</NewHead1>
+<type1> • Linen Fabric</type1>
+<type11> • Wood</type11>
+<desc1>The slim metal base and armless design makes this compact statement chair a great space saver and the padded seat and back provide generous comfort.</desc1>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+
+<S.No2>3:</S.No2>
+<PHOTO2></PHOTO2>
+<ProductDETILS2>
+<Product2>Product: Carter Tub Chair</Product2>
+<Brand2>Brand: The factory</Brand2>
+<PRICE2>Price: AU$169</PRICE2>
+</ProductDETILS2>
+<HEAD2>Product Details:</HEAD2>
+<Details2>With a deep back and sides and a smooth, rounded design, this smart chair will cocoon you while you sit or curl up.  Stylish and comfortable, the Carter Chair makes a great occasional chair for the home or office. </Details2>
+<NewHead2>Material and Care</NewHead2>
+<type2> • Linen Fabric</type2>
+<type12> • Wood</type12>
+<desc2>Generously padded for comfort, this chair is upholstered in easy-to-clean polyurethane – great for busy households and work reception areas.</desc2>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+
+
+<S.No3>4:</S.No3>
+<PHOTO3></PHOTO3>
+<ProductDETILS3>
+<Product3>Product: Carter Tub Chair</Product3>
+<Brand3>Brand: The factory</Brand3>
+<PRICE3>Price: AU$169</PRICE3>
+</ProductDETILS3>
+<HEAD3>Product Details:</HEAD3>
+<Details3>With a deep back and sides and a smooth, rounded design, this smart chair will cocoon you while you sit or curl up.  Stylish and comfortable, the Carter Chair makes a great occasional chair for the home or office. </Details3>
+<NewHead3>Material and Care</NewHead3>
+<type3> • Linen Fabric</type3>
+<type13> • Wood</type13>
+<desc3>Generously padded for comfort, this chair is upholstered in easy-to-clean polyurethane – great for busy households and work reception areas.</desc3>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+
+
+<TITLE>Beds</TITLE>
+<S.No4>5:</S.No4>
+<PHOTO4></PHOTO4>
+<ProductDETILS4>
+<Product4>Product: Gecko Single Bed Trundle</Product4>
+<Brand4>Brand: Universal</Brand4>
+<PRICE4>Price: AU$69</PRICE4>
+</ProductDETILS4>
+<HEAD4>Product Details:</HEAD4>
+<Details4>Make the most of your space and manage sleepovers without the hassle. The super-convenient Gecko Trundle is built from strong tubular steel and powder coated for superior chip resistance. Lockable wheels allow you to simply roll out the trundle when needed and store back under the bed when not in use. (Mattress Not Included) . </Details4>
+<NewHead4>Material and Care</NewHead4>
+<type4> • Steel</type4>
+<desc4>Featuring a solid steel tube frame and locakable wheels for stability this trundle has been built to last.</desc4>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+
+<S.No5>6:</S.No5>
+<PHOTO5></PHOTO5>
+<ProductDETILS5>
+<Product5>Product: Bingo Single Bed</Product5>
+<Brand5>Brand: Ikeal</Brand5>
+<PRICE5>Price: AU$69</PRICE5>
+</ProductDETILS5>
+<HEAD5>Product Details:</HEAD5>
+<Details5>Bingo! You've found the best value bed in town. With a metal frame and a straightforward design this bed has sturdy construction, is easy to decorate and has plenty of storage space underneath.  </Details5>
+<NewHead5>Material and Care</NewHead5>
+<type5> • Steel</type5>
+<desc5>The matte black frame is easy to coordinate with a wide range of bed linen.</desc5>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+
+<S.No6>7:</S.No6>
+<PHOTO6></PHOTO6>
+<ProductDETILS6>
+<Product6>Product: Zac Single Bed</Product6>
+<Brand6>Brand: Fantastic</Brand6>
+<PRICE6>Price: AU$99</PRICE6>
+</ProductDETILS6>
+<HEAD6>Product Details:</HEAD6>
+<Details6>The Zac single bed combines solid pine and metal dowels to create a bed with a versatile, light look. (Mattress not included). </Details6>
+<NewHead6>Material and Care</NewHead6>
+<type6> • Wood</type6>
+<desc6>A 5 stage staining and lacquering process done by hand, results in a rich and durable finish that wears, knocks and scratches well. Variations in the wood are to be expected.</desc6>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+
+<S.No7>8:</S.No7>
+<PHOTO7></PHOTO7>
+<ProductDETILS7>
+<Product7>Product: My First Toddler Bed</Product7>
+<Brand7>Brand: Artdeco</Brand7>
+<PRICE7>Price: AU$129</PRICE7>
+</ProductDETILS7>
+<HEAD7>Product Details:</HEAD7>
+<Details7>Set low to the ground for easy access, little ones will feel so grown-up when they climb into bed all by themselves with this fabulous first bed.  High sides provide comfort and security so toddlers can sleep soundly all night long.  </Details7>
+<NewHead7>Material and Care</NewHead7>
+<type7> • Wood</type7>
+<desc7>Finished in a stylish light oak and white, the look is smart and contemporary and suits both boys and girls rooms alike.</desc7>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+<TITLE>Tables</TITLE>
+<S.No8>9:</S.No8>
+<PHOTO8></PHOTO8>
+<ProductDETILS8>
+<Product8>Product: Host Tray Table </Product8>
+<Brand8>Brand:  Universal</Brand8>
+<PRICE8>Price: AU$29</PRICE8>
+</ProductDETILS8>
+<HEAD8>Product Details:</HEAD8>
+<Details8>This handy tray table folds flat and stores neatly out of the way when not in use, making a great space saving furniture choice for occasional use.  </Details8>
+<NewHead8>Material and Care</NewHead8>
+<type8> • Wood</type8>
+<desc8>This tidy table makes entertaining and TV dinners quick and easy.</desc8>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+<S.No9>10:</S.No9>
+<PHOTO9></PHOTO9>
+<ProductDETILS9>
+<Product9>Product: Geo Multi-Use Table  </Product9>
+<Brand9>Brand: Ikea</Brand9>
+<PRICE9>Price: AU$40</PRICE9>
+</ProductDETILS9>
+<HEAD9>Product Details:</HEAD9>
+<Details9>For a handy coffee table or TV stand with storage, check out the versatile Geo Multi-Use table. </Details9>
+<NewHead9>Material and Care</NewHead9>
+<type9> • Wood</type9>
+<desc9>This utility table is great for everyday use thanks to its hardwearing melamine top.</desc9>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+
+<S.No10>11:</S.No10>
+<PHOTO10></PHOTO10>
+<ProductDETILS10>
+<Product10>Product:: Hayman Coffee Table  </Product10>
+<Brand10>Brand: Fantastic</Brand10>
+<PRICE10>Price: AU$99</PRICE10>
+</ProductDETILS10>
+<HEAD10>Product Details:</HEAD10>
+<Details10>Add a relaxed vibe to your lounge room with this smart white Hayman Coffee Table. Featuring slatted sides and a slimline design, this versatile coffee table will add a laid-back coastal look to your home.  </Details10>
+<NewHead10>Material and Care</NewHead10>
+<type10> • Wood</type10>
+<desc10>A generously sized top and shelf underneath gives plenty of room to store reading material and keep remotes to hand. </desc10>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+
+
+<S.No11>12:</S.No11>
+<PHOTO11></PHOTO11>
+<ProductDETILS11>
+<Product11>Product:: Studio Coffee Table   </Product11>
+<Brand11>Brand: the factory</Brand11>
+<PRICE11>Price: AU$129</PRICE11>
+</ProductDETILS11>
+<HEAD11>Product Details:</HEAD11>
+<Details11>Featuring a combination of timber look panels and a black metal frame, this smart coffee table will add a touch of industrial style to your home. A warm wood foil finish gives a realistic timber look for a great price.  </Details11>
+<NewHead11>Material and Care</NewHead11>
+<type11> • Wood</type11>
+<desc11>The quality foil and metal materials provide a strong, hardwearing surface for long-lasting use, backed by a three-year warranty.  </desc11>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+<TITLE>Storage</TITLE>
+<S.No12>13:</S.No12>
+<PHOTO12></PHOTO12>
+<ProductDETILS12>
+<Product12>Product:Lynx Small Wide Bookcase </Product12>
+<Brand12>Brand: Universal</Brand12>
+<PRICE12>Price: AU$59</PRICE12>
+</ProductDETILS12>
+<HEAD12>Product Details:</HEAD12>
+<Details12>Adjustable shelves allow you to display items of different heights. Create a stylish cabinet and prevent dust build up by adding two glass doors.   </Details12>
+<NewHead12>Material and Care</NewHead12>
+<type12> • Wood</type12>
+<desc12>Add glass doors to create a stylish cabinet for glassware, ornaments or office files. </desc12>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+<S.No13>14:</S.No13>
+<PHOTO13></PHOTO13>
+<ProductDETILS13>
+<Product13>Product:: Coda 2 Drawer Insert   </Product13>
+<Brand13>Brand: Ikea</Brand13>
+<PRICE13>Price: AU$59</PRICE13>
+</ProductDETILS13>
+<HEAD13>Product Details:</HEAD13>
+<Details13>This handy 2-drawer unit provides great additional storage where you need it most. Use as a shelf insert with the Coda 6 and 10 Shelf bookcase, as a wardrobe insert or as a free-standing drawer unit for your desk or shelf to keep paperwork and stationery neatly stored away.  </Details13>
+<NewHead13>Material and Care</NewHead13>
+<type13> • Wood</type13>
+<desc13>Smooth metal runners make these drawers easy to open and close for everyday ease of use. </desc13>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+<S.No14>15:</S.No14>
+<PHOTO14></PHOTO14>
+<ProductDETILS14>
+<Product14>Product:: Alpine 2 Door Wardrobe  </Product14>
+<Brand14>Brand: Ikea</Brand14>
+<PRICE14>Price: AU$99</PRICE14>
+</ProductDETILS14>
+<HEAD14>Product Details:</HEAD14>
+<Details14>The sleek look and incredible price of this robe make it a smart buy. With plenty of hanging space it's an ideal storage solution in the in the spareroom or kids room. Hanging rail is included.   </Details14>
+<NewHead14>Material and Care</NewHead14>
+<type14> • Wood</type14>
+<desc14>Sleek, silver coloured handles and a smart brown-black finish give a stylish, contemporary look. </desc14>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+<S.No15>16:</S.No15>
+<PHOTO15></PHOTO15>
+<ProductDETILS15>
+<Product15>Product:: Home 2 Door Wardrobe    </Product15>
+<Brand15>Brand:  Artdeco</Brand15>
+<PRICE15>Price: AU$459</PRICE15>
+</ProductDETILS15>
+<HEAD15>Product Details:</HEAD15>
+<Details15>Get the look and convenience of a built-in wardrobes without the need to commit to expensive home renovations. The freestanding 120 cm Home Robe features two aluminium framed sliding doors, a fixed top shelf, and a strong hanging rail. Cheating has never been easier with this no fuss solution.   </Details15>
+<NewHead15>Material and Care</NewHead15>
+<type15> • Wood</type15>
+<desc15>Shock-absorbing bumper strips reduce noise and impact when opening and closing the doors.  </desc15>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+<TITLE>Home Decoration</TITLE>
+<S.No16>17:</S.No16>
+<PHOTO16></PHOTO16>
+<ProductDETILS16>
+<Product16>Product:: Galaxy Cheval Mirror    </Product16>
+<Brand16>Brand:Universal</Brand16>
+<PRICE16>Price: AU$59</PRICE16>
+</ProductDETILS16>
+<HEAD16>Product Details:</HEAD16>
+<Details16>Take a good long look at yourself and throw some light around your bedroom with this sleek, modern cheval mirror.  </Details16>
+<NewHead16>Material and Care</NewHead16>
+<type16> • Glass</type16>
+<type16> • Metal</type16>
+<desc16>Available in a range of colours. </desc16>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+<S.No17>18:</S.No17>
+<PHOTO17></PHOTO17>
+<ProductDETILS17>
+<Product17>Product::Oliver Rug   </Product17>
+<Brand17>Brand: Artdeco</Brand17>
+<PRICE17>Price: AU$79</PRICE17>
+</ProductDETILS17>
+<HEAD17>Product Details:</HEAD17>
+<Details17>Refresh your space with the tribal energy of a pure cotton rug that has been stonewashed for an authentic vintage look.  </Details17>
+<NewHead17>Material and Care</NewHead17>
+<type17> • Cotton</type17>
+<desc17>Hand woven for a lighter weight flatweave, this black and natural white rug is easy to style and features a low profile to fit under doors.  </desc17>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+<S.No18>19:</S.No18>
+<PHOTO18></PHOTO18>
+<ProductDETILS18>
+<Product18>Product:: Mackenzie Table Lamp    </Product18>
+<Brand18>Brand: the factory</Brand18>
+<PRICE18>Price: AU$49</PRICE18>
+</ProductDETILS18>
+<HEAD18>Product Details:</HEAD18>
+<Details18>Perfect for the home office or bedroom, this stylish angle poise lamp features a contemporary design in a combination of metal and wood for a funky look. Choose from a black or white finish to suit your interior.  </Details18>
+<NewHead18>Material and Care</NewHead18>
+<type18> • Plastic</type18>
+<type18> • Metal</type18>
+<desc18>Fully assembled, this lamp is packed in one box so you can take it home and use it straight away  </desc18>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+<S.No19>20:</S.No19>
+<PHOTO19></PHOTO19>
+<ProductDETILS19>
+<Product19>Product:Maine 2 Shelf Storage Rack    </Product19>
+<Brand19>Brand: Artdeco</Brand19>
+<PRICE19>Price: AU$35</PRICE19>
+</ProductDETILS19>
+<HEAD19>Product Details:</HEAD19>
+<Details19>The Maine 2 Tier Shelving Bench makes storage simple with its charming white painted finish. The unit has 2 wide shelves, great for multipurpose storage in the bathroom or even as a shoe rack.   </Details19>
+<NewHead19>Material and Care</NewHead19>
+<type19> • Wood</type19>
+<desc19>The Maine 2 Tier Shelving Bench measures 63cm long, 37cm wide and 53cm tall.  </desc19>
+<line>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</line>
+
+
+
+</PLANT>
+
+
+
+
